@@ -1,4 +1,4 @@
-# Writing Assistant
+# Writing Assistant (Kareem Anabtawi and Sofia Truong)
 
 This project is a simple writing assistant that will be used as a prototype for the final project.
 
